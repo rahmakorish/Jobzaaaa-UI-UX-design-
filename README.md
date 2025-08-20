@@ -25,3 +25,15 @@ Accent Grey (#6B7280) → Neutral balance, modern minimalism.
 # Typography:
 Primary Font (Headings): Poppins
 Secondary Font (Body): Nunito
+
+# Project Roles and Responsibilities:
+backend developers: Mahmoud Fouad, Shimaa Fikry, Ahmed Mohsen => create and setup website functionality and database integration 
+frontend developer: Rahma Korish => create a responsive, clean and appealing design for the website
+
+
+# UI Component Patterns
+Side bar:
+        Logo
+        User navigation
+        Responsive menu
+
